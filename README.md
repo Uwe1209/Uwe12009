@@ -4,3 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.git">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.git">
+  <img alt="github-snake" src="">
+</picture>
